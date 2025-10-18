@@ -1,5 +1,6 @@
 import React from 'react'
-import "./contect.css"
+import "./contec.css"
+
 const Contect = () => {
   return (
     <div className='contect'>
