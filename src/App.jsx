@@ -9,7 +9,7 @@ import Contect from './pages/Contect/Contect'
 const App = () => {
   return (
    <>
-     <BrowserRouter>
+     <BrowserRouter >
       <Nav/>
       <Routes>
       <Route path='/' element={<Home/>}/>
