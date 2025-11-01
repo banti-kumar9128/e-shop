@@ -54,6 +54,7 @@
     height: 80px;
     border-radius: 10px;
 }
-.tet ::placeholder{
+textarea {
     padding: 10px;
+
 }
