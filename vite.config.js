@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: 'http://localhost:5173',
+  // base: 'https://banti-kumar9128.github.io/e-shop',
 })
 
 

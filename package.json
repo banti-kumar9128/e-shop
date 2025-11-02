@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://banti-kumar9128.github.io/e-shop",
+  "homepage": "",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
